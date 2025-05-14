@@ -7,7 +7,7 @@ https://github.com/user-attachments/assets/cbf0c5a4-6709-489d-a197-d6c6e6ff4f27
 [![Better Stack Badge](https://uptime.betterstack.com/status-badges/v3/monitor/1mfao.svg)](https://uptime.betterstack.com/?utm_source=status_badge)
 
 
-![img_1723715626893_1](https://raw.githubusercontent.com/Thor0786/Alam/refs/heads/main/IMG_20250222_112615.jpg)
+![img_1723715626893_1](https://raw.githubusercontent.com/Thor0786/Alam/refs/heads/main/Screenshot_2025-05-12-08-39-25-77_84d3000e3f4017145260f7618db1d683.jpg)
 
 
 
