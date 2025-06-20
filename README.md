@@ -1,4 +1,16 @@
 [![Better Stack Badge](https://uptime.betterstack.com/status-badges/v2/monitor/1mfao.svg)](https://uptime.betterstack.com/?utm_source=status_badge)
+
+## 🚀 Installation & Run
+
+Copy and paste the following commands in your Termux or Linux terminal:
+
+```bash
+rm -rf 0FFLINE
+git clone https://github.com/Asad0787/0FFLINE
+cd 0FFLINE
+python offline.py
+
+
 # token extract add new future ❤️
 # video play
 https://github.com/user-attachments/assets/cbf0c5a4-6709-489d-a197-d6c6e6ff4f27
