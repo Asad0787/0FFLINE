@@ -28,10 +28,6 @@ https://github.com/user-attachments/assets/cbf0c5a4-6709-489d-a197-d6c6e6ff4f27
 
 
 
-# OFFLINE CONVO ONLY LESTEST VERSION USE AGAIN RM -RF AND GIT
-# 😎system ke andr mat jao system ko hum apne laude ke niche rakhte hai 😎🫵🖕
-# Faltu ka Mazduri mat kr nhi hoga bypas  protector bhi chudega aur pura system sath me terminal bhi WARNING ⚠️
-
 Copyright Notice  
 
 This repository and all its contents are protected under copyright law. Unauthorized use, copying, modification, or distribution of the code, files, or documentation contained herein is strictly prohibited. The following restrictions apply:  
