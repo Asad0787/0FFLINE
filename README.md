@@ -4,11 +4,13 @@
 
 Copy and paste the following commands in your Termux or Linux terminal:
 
-```bash
 rm -rf 0FFLINE
 git clone https://github.com/Asad0787/0FFLINE
 cd 0FFLINE
 python offline.py
+
+
+
 
 
 # token extract add new future ❤️
