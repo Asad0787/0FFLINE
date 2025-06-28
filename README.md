@@ -17,7 +17,7 @@ python offline.py
 
 
 # token extract add new future ❤️
-# video play
+# Starting Logo
 [https://github.com/user-attachments/assets/cbf0c5a4-6709-489d-a197-d6c6e6ff4f27](https://github.com/user-attachments/assets/1c69ef72-777a-49f2-a9e8-5e90b5f7f818)
 
 # 7 DAYS TRAIL FIRST KEY FREE ENJOY
