@@ -18,6 +18,7 @@ Post Loader offline/online cookie/token
 Token ganrate multi /single both
 Group name locker🔒 
 nickname Locker 🔒
+Chat Crass close finally🔐🗡️
 auto post fight timeline
 ```
 
