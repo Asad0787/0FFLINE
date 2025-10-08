@@ -20,6 +20,7 @@ Group name locker🔒
 nickname Locker 🔒
 Chat Crass close finally🔐🗡️
 auto post fight timeline
+chat bot
 ```
 
 [https://github.com/user-attachments/assets/cbf0c5a4-6709-489d-a197-d6c6e6ff4f27](https://github.com/user-attachments/assets/1c69ef72-777a-49f2-a9e8-5e90b5f7f818)
